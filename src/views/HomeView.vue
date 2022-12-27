@@ -47,7 +47,7 @@
     <!-- ...::: End Testimonial Display Section :::... -->
 
     <!-- ...::: Start Company Logo Display Section :::... -->
-    <LogoDisplay />
+
     <!-- ...::: End Company Logo Display Section :::... -->
 
     <!-- ...::: Start Blog Feed Display Section :::... -->
@@ -72,9 +72,9 @@ import SkillService from "../components/SkillSection.vue";
 // import CounterDisplay from "../components/CounterDisplay.vue";
 import ProjectDisplay from "../components/ProjectDisplay.vue";
 // import TestimonialDisplay from "../components/TestimonialDisplay.vue";
-import LogoDisplay from "../components/LogoDisplay.vue";
+// import LogoDisplay from "../components/LogoDisplay.vue";
 // import BlogFeed from "../components/BlogFeed.vue";
-import BottomFooter from "../components/BlogFeed.vue";
+import BottomFooter from "../components/BottomFooter.vue";
 
 export default {
   name: "HomeView",
@@ -87,7 +87,7 @@ export default {
     // CounterDisplay,
     ProjectDisplay,
     // TestimonialDisplay,
-    LogoDisplay,
+    // LogoDisplay,
     // BlogFeed,
     BottomFooter,
   },

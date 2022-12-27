@@ -42,23 +42,19 @@
                     />
                   </div>
                   <div class="image">
-                    <img
-                      src="assets/images/project/project-slider-img-1.jpg"
-                      alt=""
-                    />
+                    <img src="assets/images/mann.png" alt="" />
                   </div>
                 </div>
                 <div class="content">
                   <h4 class="title">
                     <a href="project-details.html"
-                      >Givest - Non Profit PSD Template</a
+                      >MannMobilia - specializes in designer wooden
+                      furniture.</a
                     >
                   </h4>
 
                   <ul class="catagory-nav-item">
-                    <li><a href="">Chairty</a></li>
-                    <li><a href="">Fund Rising</a></li>
-                    <li><a href="">Non Profit</a></li>
+                    <li><a href="">furniture</a></li>
                   </ul>
                 </div>
               </div>
@@ -74,87 +70,18 @@
                     />
                   </div>
                   <div class="image">
-                    <img
-                      src="assets/images/project/project-slider-img-2.jpg"
-                      alt=""
-                    />
+                    <img src="assets/images/pc-shot.png" alt="" />
                   </div>
                 </div>
                 <div class="content">
                   <h4 class="title">
                     <a href="project-details.html"
-                      >Musion - Gardening Website Template</a
+                      >MGH Creche V3 - Preschool management system</a
                     >
                   </h4>
 
                   <ul class="catagory-nav-item">
-                    <li><a href="">Gardeining</a></li>
-                    <li><a href="">Landscaping</a></li>
-                    <li><a href="">Greem</a></li>
-                  </ul>
-                </div>
-              </div>
-              <!-- End Project Box Single Item -->
-              <!-- Start Project Box Single Item -->
-              <div class="project-box-single-item swiper-slide">
-                <div class="img-box">
-                  <div class="bg-overlay"></div>
-                  <div class="bg-image">
-                    <img
-                      src="assets/images/project/project-slider-img-3.jpg"
-                      alt=""
-                    />
-                  </div>
-                  <div class="image">
-                    <img
-                      src="assets/images/project/project-slider-img-3.jpg"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="content">
-                  <h4 class="title">
-                    <a href="project-details.html"
-                      >SEOLLY - SEO Marketing & Digital Agency</a
-                    >
-                  </h4>
-
-                  <ul class="catagory-nav-item">
-                    <li><a href="">Chairty</a></li>
-                    <li><a href="">Fund Rising</a></li>
-                    <li><a href="">Non Profit</a></li>
-                  </ul>
-                </div>
-              </div>
-              <!-- End Project Box Single Item -->
-              <!-- Start Project Box Single Item -->
-              <div class="project-box-single-item swiper-slide">
-                <div class="img-box">
-                  <div class="bg-overlay"></div>
-                  <div class="bg-image">
-                    <img
-                      src="assets/images/project/project-slider-img-4.jpg"
-                      alt=""
-                    />
-                  </div>
-                  <div class="image">
-                    <img
-                      src="assets/images/project/project-slider-img-4.jpg"
-                      alt=""
-                    />
-                  </div>
-                </div>
-                <div class="content">
-                  <h4 class="title">
-                    <a href="project-details.html"
-                      >Virtuf - Creative Agency Bootstrap 5 Template</a
-                    >
-                  </h4>
-
-                  <ul class="catagory-nav-item">
-                    <li><a href="">Gardeining</a></li>
-                    <li><a href="">Landscaping</a></li>
-                    <li><a href="">Greem</a></li>
+                    <li><a href="">education</a></li>
                   </ul>
                 </div>
               </div>

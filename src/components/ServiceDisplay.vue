@@ -82,6 +82,24 @@
                     <div class="inner-shape inner-shape-bottom-right"></div>
                   </div>
                   <!-- End Service Box Single Item -->
+
+                  <div class="service-box-single-item swiper-slide">
+                    <div class="inner-shape inner-shape-top-right"></div>
+                    <div class="icon">
+                      <img src="assets/images/icon/service-icon-3.png" alt="" />
+                    </div>
+                    <h4 class="title">
+                      <a href="service-details.html">Illustration</a>
+                    </h4>
+                    <ul class="list-item">
+                      <li>Character Design</li>
+                      <li>Icon Set</li>
+                      <li>Illustration Guide</li>
+                      <li>Illustration Set</li>
+                      <li>Motion Graphic</li>
+                    </ul>
+                    <div class="inner-shape inner-shape-bottom-right"></div>
+                  </div>
                 </div>
               </div>
             </div>

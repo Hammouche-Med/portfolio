@@ -34,7 +34,7 @@
             <div class="footer-single-info">
               <a href="tel:+0123456789" class="info-box">
                 <span class="icon"><i class="icofont-phone"></i></span>
-                <span class="text">0123456789</span>
+                <span class="text">+2130795306630</span>
               </a>
             </div>
             <!-- Start Single Footer Info -->
@@ -44,7 +44,7 @@
             <div class="footer-single-info">
               <a href="mailto:demo@example.com" class="info-box">
                 <span class="icon"><i class="icofont-envelope-open"></i></span>
-                <span class="text">demo@example.com</span>
+                <span class="text">mhammouche995@gmail.com</span>
               </a>
             </div>
             <!-- Start Single Footer Info -->
@@ -54,17 +54,16 @@
             <div class="footer-single-info">
               <ul class="social-link">
                 <li>
-                  <a href="https://www.example.com" target="_blank"
+                  <a
+                    href="https://web.facebook.com/hammouch.mh/"
+                    target="_blank"
                     ><i class="icofont-facebook"></i
                   ></a>
                 </li>
                 <li>
-                  <a href="https://www.example.com" target="_blank"
-                    ><i class="icofont-dribbble"></i
-                  ></a>
-                </li>
-                <li>
-                  <a href="https://www.example.com" target="_blank"
+                  <a
+                    href="https://www.linkedin.com/in/mohamed-hammouche-6a4779258"
+                    target="_blank"
                     ><i class="icofont-linkedin"></i
                   ></a>
                 </li>
@@ -83,16 +82,14 @@
           <div class="col-auto">
             <div class="footer-copyright">
               <p class="copyright-text">
-                &copy; 2021 <a href="index.html">Lendex</a> Made with
-                <i class="icofont-heart"></i> by
-                <a href="https://hasthemes.com/" target="_blank">HasThemes</a>
+                &copy; 2023 <a href="index.html">Hammouche-Med</a>
               </p>
             </div>
           </div>
           <div class="col-auto">
             <a href="index.html" class="footer-logo">
               <div class="logo">
-                <img src="assets/images/logo/logo.png" alt="" />
+                <img src="assets/images/mh.png" alt="" height="30px" />
               </div>
             </a>
           </div>

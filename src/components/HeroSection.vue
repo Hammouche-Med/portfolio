@@ -40,16 +40,12 @@
 
           <div class="image-half-round-shape"></div>
           <div class="social-link">
-            <a href="https://www.example.com" target="_blank"
+            <a href="https://web.facebook.com/hammouch.mh/" target="_blank"
               ><i class="icofont-facebook"></i
             ></a>
-            <a href="https://www.example.com" target="_blank"
-              ><i class="icofont-dribbble"></i
-            ></a>
-            <a href="https://www.example.com" target="_blank"
-              ><i class="icofont-behance"></i
-            ></a>
-            <a href="https://www.example.com" target="_blank"
+            <a
+              href="https://www.linkedin.com/in/mohamed-hammouche-6a4779258"
+              target="_blank"
               ><i class="icofont-linkedin"></i
             ></a>
           </div>
