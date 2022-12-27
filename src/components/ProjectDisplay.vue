@@ -37,12 +37,12 @@
                   <div class="bg-overlay"></div>
                   <div class="bg-image">
                     <img
-                      src="assets/images/project/project-slider-img-1.jpg"
+                      src="/assets/images/project/project-slider-img-1.jpg"
                       alt=""
                     />
                   </div>
                   <div class="image">
-                    <img src="assets/images/mann.png" alt="" />
+                    <img src="/assets/images/mann.png" alt="" />
                   </div>
                 </div>
                 <div class="content">
@@ -65,12 +65,12 @@
                   <div class="bg-overlay"></div>
                   <div class="bg-image">
                     <img
-                      src="assets/images/project/project-slider-img-2.jpg"
+                      src="/assets/images/project/project-slider-img-2.jpg"
                       alt=""
                     />
                   </div>
                   <div class="image">
-                    <img src="assets/images/pc-shot.png" alt="" />
+                    <img src="/assets/images/pc-shot.png" alt="" />
                   </div>
                 </div>
                 <div class="content">

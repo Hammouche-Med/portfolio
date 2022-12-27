@@ -28,7 +28,10 @@
                   <div class="service-box-single-item swiper-slide">
                     <div class="inner-shape inner-shape-top-right"></div>
                     <div class="icon">
-                      <img src="assets/images/icon/service-icon-1.png" alt="" />
+                      <img
+                        src="/assets/images/icon/service-icon-1.png"
+                        alt=""
+                      />
                     </div>
                     <h4 class="title">
                       <a href="#">UI/UX Design</a>
@@ -47,7 +50,10 @@
                   <div class="service-box-single-item swiper-slide">
                     <div class="inner-shape inner-shape-top-right"></div>
                     <div class="icon">
-                      <img src="assets/images/icon/service-icon-2.png" alt="" />
+                      <img
+                        src="/assets/images/icon/service-icon-2.png"
+                        alt=""
+                      />
                     </div>
                     <h4 class="title">
                       <a href="#">Development</a>
@@ -67,7 +73,10 @@
                   <div class="service-box-single-item swiper-slide">
                     <div class="inner-shape inner-shape-top-right"></div>
                     <div class="icon">
-                      <img src="assets/images/icon/service-icon-4.png" alt="" />
+                      <img
+                        src="/assets/images/icon/service-icon-4.png"
+                        alt=""
+                      />
                     </div>
                     <h4 class="title">
                       <a href="#">SEO Marketing</a>
@@ -86,7 +95,10 @@
                   <div class="service-box-single-item swiper-slide">
                     <div class="inner-shape inner-shape-top-right"></div>
                     <div class="icon">
-                      <img src="assets/images/icon/service-icon-3.png" alt="" />
+                      <img
+                        src="/assets/images/icon/service-icon-3.png"
+                        alt=""
+                      />
                     </div>
                     <h4 class="title">
                       <a href="#">Illustration</a>

@@ -93,7 +93,7 @@
           <div class="col-auto">
             <a href="index.html" class="footer-logo">
               <div class="logo">
-                <img src="assets/images/logo/logo.png" alt="" />
+                <img src="/assets/images/logo/logo.png" alt="" />
               </div>
             </a>
           </div>

@@ -9,7 +9,7 @@
             <!-- Start Counterup Single Item -->
             <div class="counterup-single-item">
               <div class="icon">
-                <img src="assets/images/icon/counterup-icon-1.png" alt="" />
+                <img src="/assets/images/icon/counterup-icon-1.png" alt="" />
               </div>
               <div class="content">
                 <h2 class="number"><span class="counter">2,58</span>+</h2>
@@ -24,7 +24,7 @@
             <!-- Start Counterup Single Item -->
             <div class="counterup-single-item">
               <div class="icon">
-                <img src="assets/images/icon/counterup-icon-2.png" alt="" />
+                <img src="/assets/images/icon/counterup-icon-2.png" alt="" />
               </div>
               <div class="content">
                 <h2 class="number"><span class="counter">590</span>K</h2>
@@ -39,7 +39,7 @@
             <!-- Start Counterup Single Item -->
             <div class="counterup-single-item">
               <div class="icon">
-                <img src="assets/images/icon/counterup-icon-3.png" alt="" />
+                <img src="/assets/images/icon/counterup-icon-3.png" alt="" />
               </div>
               <div class="content">
                 <h2 class="number"><span class="counter">28</span>+</h2>

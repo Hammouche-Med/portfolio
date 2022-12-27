@@ -25,7 +25,7 @@
             <div class="image">
               <img
                 class="img-fluid"
-                src="assets/images/bg/404-error.png"
+                src="//assets/images/bg/404-error.png"
                 alt=""
               />
             </div>

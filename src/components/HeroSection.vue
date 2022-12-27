@@ -34,7 +34,7 @@
         <div class="image">
           <!-- <img
             class="img-fluid"
-            src="assets/images/web-development.webp"
+            src="/assets/images/web-development.webp"
             alt=""
           /> -->
 

@@ -6,7 +6,7 @@
           <div class="col">
             <!-- Start Header Logo -->
             <a href="#" class="header-logo">
-              <img src="assets/images/mh.png" alt="" height="80px" />
+              <img src="/assets/images/mh.png" alt="" height="80px" />
             </a>
             <!-- End Header Logo -->
           </div>
@@ -43,7 +43,7 @@
         <div class="col">
           <div class="mobile-logo">
             <a href="#"
-              ><img src="assets/images/mh.png" height="80px" alt=""
+              ><img src="/assets/images/mh.png" height="80px" alt=""
             /></a>
           </div>
         </div>

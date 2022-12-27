@@ -89,7 +89,7 @@
           <div class="col-auto">
             <a href="#" class="footer-logo">
               <div class="logo">
-                <img src="assets/images/mh.png" alt="" height="30px" />
+                <img src="/assets/images/mh.png" alt="" height="30px" />
               </div>
             </a>
           </div>

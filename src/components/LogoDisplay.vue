@@ -25,10 +25,10 @@
                     <div class="company-logo-single-item swiper-slide">
                       <a href="#" class="image">
                         <img
-                          src="assets/images/company-logo/company-logo-1.png"
+                          src="/assets/images/company-logo/company-logo-1.png"
                           alt=""
                         />
-                        <img src="assets/images/company-logo/1.png" alt="" />
+                        <img src="/assets/images/company-logo/1.png" alt="" />
                       </a>
                     </div>
                     <!-- End Company Logo Slider Single Item -->
@@ -36,10 +36,10 @@
                     <div class="company-logo-single-item swiper-slide">
                       <a href="#" class="image">
                         <img
-                          src="assets/images/company-logo/company-logo-2.png"
+                          src="/assets/images/company-logo/company-logo-2.png"
                           alt=""
                         />
-                        <img src="assets/images/company-logo/2.png" alt="" />
+                        <img src="/assets/images/company-logo/2.png" alt="" />
                       </a>
                     </div>
                     <!-- End Company Logo Slider Single Item -->
@@ -47,10 +47,10 @@
                     <div class="company-logo-single-item swiper-slide">
                       <a href="#" class="image">
                         <img
-                          src="assets/images/company-logo/company-logo-3.png"
+                          src="/assets/images/company-logo/company-logo-3.png"
                           alt=""
                         />
-                        <img src="assets/images/company-logo/3.png" alt="" />
+                        <img src="/assets/images/company-logo/3.png" alt="" />
                       </a>
                     </div>
                     <!-- End Company Logo Slider Single Item -->
@@ -58,10 +58,10 @@
                     <div class="company-logo-single-item swiper-slide">
                       <a href="#" class="image">
                         <img
-                          src="assets/images/company-logo/company-logo-4.png"
+                          src="/assets/images/company-logo/company-logo-4.png"
                           alt=""
                         />
-                        <img src="assets/images/company-logo/4.png" alt="" />
+                        <img src="/assets/images/company-logo/4.png" alt="" />
                       </a>
                     </div>
                     <!-- End Company Logo Slider Single Item -->
