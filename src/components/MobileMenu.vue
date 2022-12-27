@@ -6,15 +6,15 @@
       <div class="offcanvas-menu">
         <ul>
           <li>
-            <a href="index.html"><span>Home</span></a>
+            <a href="#"><span>Home</span></a>
           </li>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="#">Home</a></li>
           <li class="has-dropdown">
             <a href="service-list.html">Service</a>
           </li>
-          <li><a href="contact.html">Projects</a></li>
-          <li><a href="contact.html">About Us</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
         </ul>
       </div>
       <!-- End Mobile Menu Nav -->

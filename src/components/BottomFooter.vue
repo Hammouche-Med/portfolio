@@ -82,12 +82,12 @@
           <div class="col-auto">
             <div class="footer-copyright">
               <p class="copyright-text">
-                &copy; 2023 <a href="index.html">Hammouche-Med</a>
+                &copy; 2023 <a href="#">Hammouche-Med</a>
               </p>
             </div>
           </div>
           <div class="col-auto">
-            <a href="index.html" class="footer-logo">
+            <a href="#" class="footer-logo">
               <div class="logo">
                 <img src="assets/images/mh.png" alt="" height="30px" />
               </div>

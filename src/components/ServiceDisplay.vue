@@ -31,7 +31,7 @@
                       <img src="assets/images/icon/service-icon-1.png" alt="" />
                     </div>
                     <h4 class="title">
-                      <a href="service-details.html">UI/UX Design</a>
+                      <a href="#">UI/UX Design</a>
                     </h4>
                     <ul class="list-item">
                       <li>Landing Pages</li>
@@ -50,7 +50,7 @@
                       <img src="assets/images/icon/service-icon-2.png" alt="" />
                     </div>
                     <h4 class="title">
-                      <a href="service-details.html">Development</a>
+                      <a href="#">Development</a>
                     </h4>
                     <ul class="list-item">
                       <li>HTML/CSS/JS</li>
@@ -70,7 +70,7 @@
                       <img src="assets/images/icon/service-icon-4.png" alt="" />
                     </div>
                     <h4 class="title">
-                      <a href="service-details.html">SEO Marketing</a>
+                      <a href="#">SEO Marketing</a>
                     </h4>
                     <ul class="list-item">
                       <li>White Hat SEO</li>
@@ -89,7 +89,7 @@
                       <img src="assets/images/icon/service-icon-3.png" alt="" />
                     </div>
                     <h4 class="title">
-                      <a href="service-details.html">Illustration</a>
+                      <a href="#">Illustration</a>
                     </h4>
                     <ul class="list-item">
                       <li>Character Design</li>

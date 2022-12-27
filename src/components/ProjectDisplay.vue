@@ -47,7 +47,7 @@
                 </div>
                 <div class="content">
                   <h4 class="title">
-                    <a href="project-details.html"
+                    <a href="#"
                       >MannMobilia - specializes in designer wooden
                       furniture.</a
                     >
@@ -75,9 +75,7 @@
                 </div>
                 <div class="content">
                   <h4 class="title">
-                    <a href="project-details.html"
-                      >MGH Creche V3 - Preschool management system</a
-                    >
+                    <a href="#">MGH Creche V3 - Preschool management system</a>
                   </h4>
 
                   <ul class="catagory-nav-item">
