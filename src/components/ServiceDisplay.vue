@@ -53,30 +53,31 @@
                       <a href="service-details.html">Development</a>
                     </h4>
                     <ul class="list-item">
-                      <li>HTML/CSS</li>
-                      <li>JavaScript</li>
-                      <li>Animation</li>
-                      <li>WordPress</li>
-                      <li>React</li>
+                      <li>HTML/CSS/JS</li>
+                      <li>Python</li>
+                      <li>PHP</li>
+                      <li>TypeScript</li>
+                      <li>MERN, MEVN, DRF, LARAVEL</li>
                     </ul>
                     <div class="inner-shape inner-shape-bottom-right"></div>
                   </div>
                   <!-- End Service Box Single Item -->
+
                   <!-- Start Service Box Single Item -->
                   <div class="service-box-single-item swiper-slide">
                     <div class="inner-shape inner-shape-top-right"></div>
                     <div class="icon">
-                      <img src="assets/images/icon/service-icon-3.png" alt="" />
+                      <img src="assets/images/icon/service-icon-4.png" alt="" />
                     </div>
                     <h4 class="title">
-                      <a href="service-details.html">Illustration</a>
+                      <a href="service-details.html">SEO Marketing</a>
                     </h4>
                     <ul class="list-item">
-                      <li>Character Design</li>
-                      <li>Icon Set</li>
-                      <li>Illustration Guide</li>
-                      <li>Illustration Set</li>
-                      <li>Motion Graphic</li>
+                      <li>White Hat SEO</li>
+                      <li>Black Hat SEO</li>
+                      <li>Grey Hat SEO</li>
+                      <li>Negative SEO</li>
+                      <li>On-Page SEO</li>
                     </ul>
                     <div class="inner-shape inner-shape-bottom-right"></div>
                   </div>

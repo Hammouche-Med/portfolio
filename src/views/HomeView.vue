@@ -35,7 +35,7 @@
     <!-- ...::: End Skill Display Section :::... -->
 
     <!-- ...::: Start Counter Display Section :::... -->
-    <CounterDisplay />
+
     <!-- ...::: End Counter Display Section :::... -->
 
     <!-- ...::: Start Project Display Section :::... -->
@@ -43,7 +43,7 @@
     <!-- ...::: End Project Display Section :::... -->
 
     <!-- ...::: Start Testimonial Display Section :::... -->
-    <TestimonialDisplay />
+
     <!-- ...::: End Testimonial Display Section :::... -->
 
     <!-- ...::: Start Company Logo Display Section :::... -->
@@ -51,7 +51,7 @@
     <!-- ...::: End Company Logo Display Section :::... -->
 
     <!-- ...::: Start Blog Feed Display Section :::... -->
-    <BlogFeed />
+
     <!-- ...::: End Blog Feed Display Section :::... -->
 
     <!-- ...::: Start Footer Section :::... -->
@@ -69,11 +69,11 @@ import MobileMenu from "../components/MobileMenu.vue";
 import HeroSection from "../components/HeroSection.vue";
 import ServiceDisplay from "../components/ServiceDisplay.vue";
 import SkillService from "../components/SkillSection.vue";
-import CounterDisplay from "../components/CounterDisplay.vue";
+// import CounterDisplay from "../components/CounterDisplay.vue";
 import ProjectDisplay from "../components/ProjectDisplay.vue";
-import TestimonialDisplay from "../components/TestimonialDisplay.vue";
+// import TestimonialDisplay from "../components/TestimonialDisplay.vue";
 import LogoDisplay from "../components/LogoDisplay.vue";
-import BlogFeed from "../components/BlogFeed.vue";
+// import BlogFeed from "../components/BlogFeed.vue";
 import BottomFooter from "../components/BlogFeed.vue";
 
 export default {
@@ -84,11 +84,11 @@ export default {
     HeroSection,
     ServiceDisplay,
     SkillService,
-    CounterDisplay,
+    // CounterDisplay,
     ProjectDisplay,
-    TestimonialDisplay,
+    // TestimonialDisplay,
     LogoDisplay,
-    BlogFeed,
+    // BlogFeed,
     BottomFooter,
   },
   mounted() {

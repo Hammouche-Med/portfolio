@@ -7,26 +7,13 @@
             <div class="hero-content">
               <h3 class="title-big">Hello! I’m</h3>
               <h2 class="title-large">
-                Mirta <span class="shape-mark">Akins</span>
+                Hammouche <span class="shape-mark">Mohamed</span>
               </h2>
-              <p>UI/UX Designer specializing in Shopify & Webflow.</p>
+              <p>Fullstack Web Developer.</p>
 
               <a href="#" class="btn btn-xl btn-outline-one icon-space-left"
                 >Get Resume <i class="icofont-download"></i
               ></a>
-
-              <div class="video-link">
-                <a
-                  class="wave-btn"
-                  href="https://youtu.be/MKjhBO2xQzg"
-                  data-autoplay="true"
-                  data-vbtype="video"
-                >
-                  <div class="ripple"><i class="icofont-ui-play"></i></div>
-                </a>
-
-                <span class="video-text"> Watch Video</span>
-              </div>
             </div>
           </div>
         </div>
@@ -45,11 +32,11 @@
 
       <div class="hero-portrait">
         <div class="image">
-          <img
+          <!-- <img
             class="img-fluid"
-            src="assets/images/portrait/portrait-hero.png"
+            src="assets/images/web-development.webp"
             alt=""
-          />
+          /> -->
 
           <div class="image-half-round-shape"></div>
           <div class="social-link">
