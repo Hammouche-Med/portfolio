@@ -93,7 +93,7 @@ export default {
   },
   mounted() {
     const init = document.createElement("script");
-    init.setAttribute("src", "/assets/js/main.js");
+    init.setAttribute("src", "/portfolio/assets/js/main.js");
     init.async = true;
     document.head.appendChild(init);
   },
