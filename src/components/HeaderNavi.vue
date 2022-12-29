@@ -6,7 +6,7 @@
           <div class="col">
             <!-- Start Header Logo -->
             <a href="#" class="header-logo">
-              <img src="/portfolio/assets/images/mh.png" alt="" height="80px" />
+              <img src="/assets/images/mh.png" alt="" height="80px" />
             </a>
             <!-- End Header Logo -->
           </div>
