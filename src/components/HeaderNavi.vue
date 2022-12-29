@@ -6,7 +6,7 @@
           <div class="col">
             <!-- Start Header Logo -->
             <a href="#" class="header-logo">
-              <img src="/assets/images/mh.png" alt="" height="80px" />
+              <img src="/portfolio/assets/images/mh.png" alt="" height="80px" />
             </a>
             <!-- End Header Logo -->
           </div>
@@ -17,7 +17,7 @@
               <li><RouterLink to="/service">Services</RouterLink></li>
               <li><a href="#">Projects</a></li>
               <li><a href="#">About Us</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><RouterLink to="/contact">Contact</RouterLink></li>
             </ul>
             <!-- End Header Menu -->
           </div>
