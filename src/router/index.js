@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
 import NotFoundView from "../views/NotFound.vue";
+import ServiceView from "../views/ServiceView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -11,6 +12,11 @@ const router = createRouter({
       component: HomeView,
     },
     {
+      path: "/service",
+      name: "service",
+      component: ServiceView,
+    },
+    {
       path: "/about",
       name: "about",
       // route level code-splitting
@@ -18,7 +24,7 @@ const router = createRouter({
       // which is lazy-loaded when the route is visited.
       component: () => import("../views/AboutView.vue"),
     },
-    { path: "/:pathMatch(.*)", name: "NotFound", component: NotFoundView },
+    { path: "/:pathMatch(.*)", name: "not-found-404", component: NotFoundView },
   ],
 });
 

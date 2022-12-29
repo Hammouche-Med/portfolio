@@ -42,7 +42,7 @@
           <div class="col-auto mb-5">
             <!-- Start Single Footer Info -->
             <div class="footer-single-info">
-              <a href="mailto:demo@example.com" class="info-box">
+              <a href="mailto:mhammouche995@gmail.com" class="info-box">
                 <span class="icon"><i class="icofont-envelope-open"></i></span>
                 <span class="text">mhammouche995@gmail.com</span>
               </a>

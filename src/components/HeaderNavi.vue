@@ -13,10 +13,8 @@
           <div class="col-auto">
             <!-- Start Header Menu -->
             <ul class="header-nav">
-              <li><a href="#">Home</a></li>
-              <li class="has-dropdown">
-                <a href="#">Service</a>
-              </li>
+              <li><RouterLink to="/">Home</RouterLink></li>
+              <li><RouterLink to="/service">Services</RouterLink></li>
               <li><a href="#">Projects</a></li>
               <li><a href="#">About Us</a></li>
               <li><a href="#">Contact</a></li>

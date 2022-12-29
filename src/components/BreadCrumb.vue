@@ -7,10 +7,10 @@
         <div class="row">
           <div class="col-12">
             <div class="breadcrumb-content">
-              <h2 class="title">Page Not Found</h2>
+              <h2 class="title">{{ title }}</h2>
               <ul class="breadcrumb-link">
-                <li><a href="index.html">Home</a></li>
-                <li class="active" aria-current="page">404</li>
+                <li><RouterLink to="/">Home</RouterLink></li>
+                <li class="active" aria-current="page">{{ desc }}</li>
               </ul>
             </div>
           </div>
@@ -19,3 +19,11 @@
     </div>
   </div>
 </template>
+<script>
+export default {
+  props: {
+    title: String,
+    desc: String,
+  },
+};
+</script>
